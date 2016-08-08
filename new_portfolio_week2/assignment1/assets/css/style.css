@@ -438,13 +438,16 @@ body {
 					float: top;
 			}
 
+	
+
 			#body1 {
 				float: top;
+				position: relative;
 			}
 
 			#connect {
 				float: left;
-				position: relative;
+				position: absolute;
 			}
 
 		}
@@ -456,13 +459,15 @@ body {
 				float: top;
 			}
 			
+			
+
 			#body1 {
 				float: top;
 			}
 
 			#connect {
 				float: left;
-				position: relative;
+				position: absolute;
 			}
 		}
 
@@ -483,7 +488,7 @@ body {
 
 			#connect {
 				float: left;
-				position: relative;
+				position: absolute;
 			}
 
 		}
